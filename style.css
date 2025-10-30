@@ -4,7 +4,7 @@ body {
     color: black;
 }
 
-.profil {
+.ftprofil {
     width: 300px;
     margin: 10px auto;
     padding: 20px;
@@ -14,7 +14,7 @@ body {
     text-align: center;
 }
 
-.profil img {
+.ftprofil img {
     width: 150px;
     border-radius: 50%;
 }
